@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeya Mosharraf</h1>
-<h3 align="center">Analytics Engineer | Full-Stack Data Analyst 🚀</h3>
+<h3 align="center">Analytics Engineer | Technical Data Analyst 🚀</h3>
 <p align="center">
-  <em>Merging <strong>Data Engineering</strong>, <strong>Web Development</strong>, and <strong>Business Intelligence</strong> to build scalable data products.</em>
+  <em>Merging <strong>Data Engineering</strong>, <strong>Process Automation</strong>, and <strong>Business Intelligence</strong> to build scalable data products.</em>
 </p>
 
 ---
@@ -14,20 +14,20 @@
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://zeyamosharraf.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_App-2ea44f?style=for-the-badge&logo=react" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit_App-2ea44f?style=for-the-badge&logo=googlechrome" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 The "Engineer-First" Approach
+## 👨‍💻 The "Solution-First" Approach
 
-I am not just an analyst who reports numbers. I am a builder. My background spans **SQL Backend Development**, **Frontend Engineering**, and **Data Architecture**.
+I am not just an analyst who reports numbers. I am a builder. My background spans **SQL Backend Development**, **Data Architecture**, and **Automated Reporting**.
 
-I build my own tools. Whether it's coding a React application to showcase insights, architecting middleware to bypass API limits, or parsing JSON in SQL—I solve infrastructure problems so the business can focus on decisions.
+I believe the medium of presentation is as important as the data itself. While my core expertise is in Data, I leverage modern web tools to build custom interfaces when standard dashboards fall short. I built my portfolio as a web application to gain **100% control over the user journey and analytics tracking**, something static PDFs cannot do.
 
 - 🔭 **Current Focus:** Automating reporting infrastructures using Python & GCP.
-- ⚛️ **Web Tech:** Building data applications with React (Vite + TypeScript) & Tailwind.
+- ⚛️ **Methodology:** Using the right tool for the job—whether it's Power BI for dashboards or a Custom Web App for flexibility.
 - 💡 **Key Win:** Reduced reporting manual work by **~80%** via automated pipelines.
 
 ---
@@ -37,7 +37,7 @@ I build my own tools. Whether it's coding a React application to showcase insigh
 | Project | Tech Stack | Business Problem Solved |
 | :--- | :--- | :--- |
 | **[Secure Power BI Middleware](https://github.com/ZeyaMosharraf/powerbi-gsheets-secure-middleware)** | `Apps Script` `REST API` `Power Query` | **Problem:** API Rate Limits (429 Errors) crashing reports.<br>**Solution:** Architected a custom token-bucket middleware ensuring 100% refresh reliability. |
-| **[Production Analytics Portfolio](https://zeyamosharraf.github.io/)** | `React` `TypeScript` `Vite` `Google Analytics` | **Problem:** Static PDF portfolios don't show coding skills.<br>**Solution:** Built a SEO-optimized Single Page Application (SPA) with live analytics tracking. |
+| **[Integrated Data Portfolio](https://zeyamosharraf.github.io/)** | `Replit` `LLM-Assisted` `Google Analytics` | **Problem:** Static PDFs fail to demonstrate end-to-end data capabilities.<br>**Solution:** Leveraged AI tools to rapidly deploy a live web app that tracks its own visitor analytics. |
 | **[Executive Financial Suite](https://github.com/ZeyaMosharraf)** | `Figma` `DAX` `Star Schema` | **Problem:** Executives overwhelmed by operational data.<br>**Solution:** Designed a "SaaS-style" dark-mode dashboard with **Profit Waterfalls** and **Revenue Attribution**. |
 
 ---
@@ -64,12 +64,12 @@ I build my own tools. Whether it's coding a React application to showcase insigh
     </td>
   </tr>
   <tr>
-    <td><strong>Web & Visualization</strong></td>
+    <td><strong>BI & Visualization</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
+      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -82,11 +82,18 @@ I build my own tools. Whether it's coding a React application to showcase insigh
 *Aug 2025 – Present*
 - **End-to-End Automation:** Designed automated data pipelines to refresh reports, eliminating manual effort and reducing recurring reporting work by **~80%**.
 - **Middleware Architecture:** Built secure token-based middleware to fix API rate limits.
-- **Advanced Modeling:** modeled structured datasets using relational and semi-star schemas to support scalable KPI tracking.
+- **Advanced Modeling:** Modeled structured datasets using relational and semi-star schemas to support scalable KPI tracking.
 
-### **Personal Data Analyst Portfolio** | Web Development Project
+### **Freelance Analytics Consultant** | OneMetric (formerly Growtomation)
+*Jul 2025 – Aug 2025*
+- **Contract Conversion:** Delivered high-impact dashboards for sales & finance that directly led to a full-time offer within 2 months.
+- **Data Integration:** Unified disparate data sources (APIs, Google Sheets, CRM data) into centralized Power BI models to replace fragmented spreadsheet reporting.
+- **Performance Optimization:** Applied advanced DAX patterns to optimize report rendering speed and ensure data accuracy for decision-makers.
+
+### **Integrated Data Portfolio** | Engineering & Science Showcase
 *Mar 2025 – Present*
-- **Full-Stack Development:** Built a multi-page analytics portfolio using **React (Vite + TypeScript)** and Tailwind CSS for optimized routing and clean UI/UX.
+- **Full-Spectrum Showcase:** Designed a platform to demonstrate the complete data lifecycle—from **Data Engineering** pipelines to **Data Science** models—proving capability beyond basic analytics.
+- **AI-Augmented Development:** Leveraged **Replit and LLMs (ChatGPT, Gemini)** to accelerate frontend construction. This allowed me to focus purely on the **data logic and user psychology** while using AI to handle the syntax.
 - **SEO & Analytics:** Integrated **Google Analytics** and Search Console to monitor traffic; achieved 60+ sessions in the first month from global users (India, US, Israel).
 
 ### **PL/SQL Developer** | Nirjai Technologies
