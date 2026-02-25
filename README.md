@@ -94,7 +94,7 @@ I believe the medium of presentation is as important as the data itself. While m
 *Mar 2025 – Present*
 - **Full-Spectrum Showcase:** Designed a platform to demonstrate the complete data lifecycle—from **Data Engineering** pipelines to **Data Science** models—proving capability beyond basic analytics.
 - **AI-Augmented Development:** Leveraged **Replit and LLMs (ChatGPT, Gemini)** to accelerate frontend construction. This allowed me to focus purely on the **data logic and user psychology** while using AI to handle the syntax.
-- **SEO & Analytics:** Integrated **Google Analytics** and Search Console to monitor traffic; achieved 60+ sessions in the first month from global users (India, US, Israel).
+- **SEO & Analytics:** Integrated **Google Analytics** and Search Console to monitor traffic; achieved 60+ sessions in the first month from global users (India, US, Palestine).
 
 ### **PL/SQL Developer** | Nirjai Technologies
 *Mar 2025 – Jun 2025*
